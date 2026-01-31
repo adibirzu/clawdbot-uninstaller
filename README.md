@@ -71,7 +71,7 @@ Before removal, the script creates a timestamped backup containing:
 ### Quick Install (Recommended)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/clawdbot-uninstaller/main/uninstall.sh -o uninstall.sh
+curl -fsSL https://raw.githubusercontent.com/adibirzu/clawdbot-uninstaller/main/uninstall.sh -o uninstall.sh
 chmod +x uninstall.sh
 ```
 
@@ -79,7 +79,7 @@ chmod +x uninstall.sh
 
 1. Download the script:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/clawdbot-uninstaller.git
+   git clone https://github.com/adibirzu/clawdbot-uninstaller.git
    cd clawdbot-uninstaller
    ```
 
@@ -330,7 +330,7 @@ This is an unofficial uninstaller script. It is not affiliated with or endorsed 
 ## Support
 
 For issues, questions, or suggestions:
-- Open an issue on [GitHub Issues](https://github.com/YOUR_USERNAME/clawdbot-uninstaller/issues)
+- Open an issue on [GitHub Issues](https://github.com/adibirzu/clawdbot-uninstaller/issues)
 - Check existing issues for solutions
 
 ---
